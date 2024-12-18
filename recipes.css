@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(219, 188, 188);
+  padding: 24px;
+}
+
+h1,
+h3,
+img {
+  margin-bottom: 8px;
+  padding: 8px 0;
+  color: rgb(129, 47, 47);
+}
+
+ul,
+ol,
+p {
+  list-style: none;
+  color: rgb(43, 6, 6);
+}
+
+img {
+  box-shadow: 9px 9px 5px;
+  padding: 0;
+}
